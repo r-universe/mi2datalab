@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "tidycharts"]
 	path = tidycharts
 	url = https://github.com/mi2datalab/tidycharts
-	shallow = true
-	registered = true
